@@ -1,0 +1,18 @@
+export enum Scene {
+  Original,
+  GravitationalPull,
+  Rain,
+  ChangingPosition,
+  Spinning,
+  NewVortex,
+  ChangingPerspective,
+  Supernova,
+  FrequencyWaveform,
+  Lightning,
+  AudioWaveform,
+  ColorExplosion,
+  Trailing,
+  DynamicWaveform,
+  TwoParticleBalls,
+  Singularity,
+}

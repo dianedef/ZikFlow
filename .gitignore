@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.nuxt/
+dist/
+build/
+out/
+.env*
+.vercel
+*.tsbuildinfo
+.DS_Store

@@ -1,0 +1,18 @@
+export const SCENE_NAMES = [
+  "Cosmic Explosion",
+  "Gravitational Pull",
+  "Celestial Downpour",
+  "Stellar Drift",
+  "Galactic Whirl",
+  "Nebula Vortex",
+  "Dimensional Shift",
+  "Stellar Explosion",
+  "Harmonic Ripples",
+  "Thunderbolt Chaos",
+  "Sonic Waves",
+  "Chromatic Burst",
+  "Astral Echoes",
+  "Quantum Fluctuations",
+  "Binary Star System",
+  "Event Horizon",
+];
