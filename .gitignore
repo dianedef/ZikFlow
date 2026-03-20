@@ -8,3 +8,12 @@ out/
 .vercel
 *.tsbuildinfo
 .DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+app-flutter/.dart_tool/
+app-flutter/.packages
+app-flutter/build/
